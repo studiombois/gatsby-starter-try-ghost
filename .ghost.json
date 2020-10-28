@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://mbois.herokuapp.com",
+    "contentApiKey": "b2e5fa0cfbd576862de5d31b91"
+  },
+  "production": {
+    "apiUrl": "https://mbois.herokuapp.com",
+    "contentApiKey": "b2e5fa0cfbd576862de5d31b91"
+  }
+}
